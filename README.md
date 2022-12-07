@@ -38,3 +38,14 @@ I am currently a **computer science student** @ [Unimi](https://www.unimi.it/it)
   <img src="https://github.com/devicons/devicon/blob/master/icons/php/php-original.svg" title="PHP" alt="PHP" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original-wordmark.svg" title="vscode" alt="vscode" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: Some Stats:
+<div align=center>
+  
+  ![GitHub stats](https://github-readme-stats.vercel.app/api?username=GitCass01&count_private=true&show_icons=true&theme=dark&hide=contribs,stars)
+
+  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GitCass01&layout=compact&theme=dark&count_private=true)
+
+</div>
