@@ -41,7 +41,7 @@ I am currently a **computer science student** @ [Unimi](https://www.unimi.it/it)
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,go,py,css,html,js,mysql,nodejs,md,latex,php,vscode,idea" />
+    <img src="https://skillicons.dev/icons?i=java,go,py,css,html,js,mysql,nodejs,spring,md,latex,vscode,idea" />
   </a>
 </p>
 
