@@ -13,7 +13,7 @@
 -->
 
 ### :woman_technologist: About Me :
-I am currently a **computer science student** @ [Unimi](https://www.unimi.it/it).
+Just graduated in **computer science** @ [Unimi](https://www.unimi.it/it).
 <div id="badges" align="center">
     <a href="https://www.linkedin.com/in/davide-carniselli-839a07201/">
       <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
